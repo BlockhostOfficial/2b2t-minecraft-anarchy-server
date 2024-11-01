@@ -16,6 +16,7 @@ Since the fall of 2b2t, Minecraft server 6b6t became the most popular anarchy se
 - Location: USA
 - Minecraft editions: Java & Bedrock
 - Trusted: ⭐⭐⭐⭐⭐
+- [Website](https://www.6b6t.org/?utm_source=github&utm_medium=repository&utm_campaign=blockhost_server_repository) | [Discord](https://discord.6b6t.org/) | [Reddit](https://www.reddit.com/r/6b6t/)
 - IP: join.6b6t.org for Minecraft Java Edition and bedrock.6b6t.org with port 19132 for Bedrock Edition
 
 <img src="https://github.com/BlockhostOfficial/2b2t-minecraft-anarchy-server/blob/main/6b6t-best-minecraft-anarchy-server-2024.png" alt="The spawn of Minecraft Anarchy Server 6b6t" width="512" height="288">
@@ -30,6 +31,7 @@ Endcrystal.me is one of the OG 2b2t alternatives, that was one of the first anar
 - Location: USA
 - Minecraft editions: Java
 - Trusted: ⭐⭐⭐⭐⭐
+- [Website](https://endcrystal.me/) | [Discord](https://discord.gg/AUskmthYQA) | [Reddit](https://www.reddit.com/r/endcrystalme/)
 - IP: endcrystal.me for Minecraft Java Edition
 
 
@@ -43,6 +45,7 @@ Avas.cc is a unique anarchy server that is known for the gameplay with absolutel
 - Location: Europe
 - Minecraft editions: Java
 - Trusted: ⭐⭐⭐⭐
+- [Website](https://avas.cc/) | [Discord](https://discord.gg/Fzj4TPScam) | [Reddit](https://www.reddit.com/r/AVAS/)
 - IP: avas.cc for Minecraft Java Edition
 
 ## Submit more anarchy servers
