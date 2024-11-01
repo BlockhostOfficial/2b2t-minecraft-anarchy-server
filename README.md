@@ -18,6 +18,8 @@ Since the fall of 2b2t, Minecraft server 6b6t became the most popular anarchy se
 - Trusted: ⭐⭐⭐⭐⭐
 - IP: join.6b6t.org for Minecraft Java Edition and bedrock.6b6t.org with port 19132 for Bedrock Edition
 
+![The spawn of Minecraft Anarchy Server 6b6t](https://github.com/BlockhostOfficial/2b2t-minecraft-anarchy-server/blob/main/6b6t-best-minecraft-anarchy-server-2024.png?raw=true)
+
 ### Endcrystal.me
 
 Endcrystal.me is one of the OG 2b2t alternatives, that was one of the first anarchy servers to move away from 1.12.2. The server is very vanilla with a loyal community and great server performance. The owner of endcrystal.me is Xymb.
